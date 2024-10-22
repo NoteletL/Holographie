@@ -1,0 +1,26 @@
+clean, noisy, Ns
+PATTERN1/PhaseDATA.mat,PATTERN1/MFH_0/NoisyPhase.mat,0
+PATTERN1/PhaseDATA.mat,PATTERN1/MFH_1/NoisyPhase.mat,1
+PATTERN1/PhaseDATA.mat,PATTERN1/MFH_1p5/NoisyPhase.mat,1.5
+PATTERN1/PhaseDATA.mat,PATTERN1/MFH_2/NoisyPhase.mat,2
+PATTERN1/PhaseDATA.mat,PATTERN1/MFH_2p5/NoisyPhase.mat,2.5
+PATTERN2/PhaseDATA.mat,PATTERN2/MFH_0/NoisyPhase.mat,0
+PATTERN2/PhaseDATA.mat,PATTERN2/MFH_1/NoisyPhase.mat,1
+PATTERN2/PhaseDATA.mat,PATTERN2/MFH_1p5/NoisyPhase.mat,1.5
+PATTERN2/PhaseDATA.mat,PATTERN2/MFH_2/NoisyPhase.mat,2
+PATTERN2/PhaseDATA.mat,PATTERN2/MFH_2p5/NoisyPhase.mat,2.5
+PATTERN3/PhaseDATA.mat,PATTERN3/MFH_0/NoisyPhase.mat,0
+PATTERN3/PhaseDATA.mat,PATTERN3/MFH_1/NoisyPhase.mat,1
+PATTERN3/PhaseDATA.mat,PATTERN3/MFH_1p5/NoisyPhase.mat,1.5
+PATTERN3/PhaseDATA.mat,PATTERN3/MFH_2/NoisyPhase.mat,2
+PATTERN3/PhaseDATA.mat,PATTERN3/MFH_2p5/NoisyPhase.mat,2.5
+PATTERN4/PhaseDATA.mat,PATTERN4/MFH_0/NoisyPhase.mat,0
+PATTERN4/PhaseDATA.mat,PATTERN4/MFH_1/NoisyPhase.mat,1
+PATTERN4/PhaseDATA.mat,PATTERN4/MFH_1p5/NoisyPhase.mat,1.5
+PATTERN4/PhaseDATA.mat,PATTERN4/MFH_2/NoisyPhase.mat,2
+PATTERN4/PhaseDATA.mat,PATTERN4/MFH_2p5/NoisyPhase.mat,2.5
+PATTERN5/PhaseDATA.mat,PATTERN5/MFH_0/NoisyPhase.mat,0
+PATTERN5/PhaseDATA.mat,PATTERN5/MFH_1/NoisyPhase.mat,1
+PATTERN5/PhaseDATA.mat,PATTERN5/MFH_1p5/NoisyPhase.mat,1.5
+PATTERN5/PhaseDATA.mat,PATTERN5/MFH_2/NoisyPhase.mat,2
+PATTERN5/PhaseDATA.mat,PATTERN5/MFH_2p5/NoisyPhase.mat,2.5
